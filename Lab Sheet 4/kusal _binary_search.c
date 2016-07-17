@@ -1,6 +1,6 @@
 /* 
 *
-*	Program: To evaluate a postfix expression.
+*	Program: To implement bianary search
 * 	Author Kusal Bista
 * 	Date: 07/16/2016
 *   Ref: Data Structure using C and C++,chap 2, page 122 
