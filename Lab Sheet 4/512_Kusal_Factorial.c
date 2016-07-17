@@ -1,6 +1,6 @@
 /* 
 *
-*	Program: To evaluate a postfix expression.
+*	Program: To find factorial.
 * 	Author Kusal Bista
 * 	Date: 07/14/2016
 *   Ref: Data Structure using C and C++
